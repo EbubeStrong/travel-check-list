@@ -1,4 +1,7 @@
-# React + Vite
+# Tip-Calculator
+A simple tip calculator built with React that allows users to calculate tips based on the bill amount and service quality.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
